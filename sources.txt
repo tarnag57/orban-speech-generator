@@ -1,0 +1,6 @@
+https://blog.paperspace.com/recurrent-neural-networks-part-1-2/
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+http://www.cs.umd.edu/~miyyer/pubs/2014_nips_generation.pdf
+
+gitHub library for RNN tet gen:
+https://github.com/minimaxir/textgenrnn
